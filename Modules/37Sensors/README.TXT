@@ -2,7 +2,89 @@ Where i found:
 http://dx.com/p/arduno-37-in-1-sensor-module-kit-black-142834
 Description: http://www.cutedigi.com/arduino/sensors-kit-for-arduino.html
 
+<<<<<<< HEAD
 List:
+=======
+Small passive
+ buzzer KY-006
+
+2-color LED KY-011
+
+Hit KY-031
+
+Vibration switch KY-002
+
+Photo resistor KY-018
+
+Key switch KY-004
+
+Tilt switch KY-020 
+
+3-color SMD KY-009
+
+Infrared emission KY-005 
+
+3-color LED KY-016
+
+Mercury open optical KY-017
+
+Yin Yi 2-color LED
+ 3MM KY-029
+
+Active buzzer KY-012 
+
+Temperature KY-013
+
+Flashing colorful LED KY-034
+
+Mini magnetic reed KY-021
+
+Hall magnetic KY-003
+
+Infrared receiver KY-022
+
+Class Bihor magnetic KY-035
+
+Magic light cup KY-027
+
+Rotary encoder KY-040
+
+Optical broken KY-010
+
+Detect the heartbeat KY-039
+
+Reed KY-025
+
+Obstacle avoidance KY-032
+
+Hunt KY-033
+
+Microphone sound KY-038
+
+Laser KY-008
+
+5V relay KY-019
+
+Temperature KY-001
+
+Temperature KY-028
+
+Linear Hall sensor KY-024
+
+Flame KY-026
+
+Sensitive microphone KY-037
+
+Temperature and humidity 
+ DH11 KY-015
+
+XY-axis joystick KY-023
+
+Metal touch KY-036
+
+- Packing list:
+- 1 x Small passive buzzer module KY-006
+>>>>>>> Nothing
 - 1 x 2-color LED module KY-011
 - 1 x Hit sensor module KY-031
 - 1 x Vibration switch module KY-002
@@ -39,4 +121,9 @@ List:
 - 1 x Temperature and humidity sensor module KY-015
 - 1 x XY-axis joystick module KY-023
 - 1 x Metal touch sensor module KY-036
+<<<<<<< HEAD
 - 1 x Box KY-026
+=======
+- 1 x Box
+
+>>>>>>> Nothing
